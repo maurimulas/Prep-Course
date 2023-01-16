@@ -1,0 +1,16 @@
+\\ variable:
+
+var a = 7 
+a = 8
+
+\\ string = una cadena de caracteres
+  String = "hola"
+
+
+  funcion = (a, b) => {
+     return 4+b
+  }
+  funcion (2, 3) => {
+    return 2+3
+  }
+  
